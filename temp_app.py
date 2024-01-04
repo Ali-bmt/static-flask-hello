@@ -1,4 +1,5 @@
 from flask import Flask
+print('flask app loaded')
 
 app = Flask(__name__)
 
