@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/*",
-        "serve": "/temp_app.py"
+        "serve": "/app.py"
       }
     ]
   }
